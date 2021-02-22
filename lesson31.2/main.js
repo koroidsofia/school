@@ -1,0 +1,8 @@
+let x = Number(prompt("введите x"))
+y = Number(prompt("введите y"))
+alert("сумма x+y= " + (x + y))
+alert("разность x-y= " + (x - y))
+alert("разность y-x= " + (y - x))
+alert("произвидение x*y= " + (x * y))
+alert("частное x/y= " + (x / y))
+alert("частное y/x= " + (y / x))
