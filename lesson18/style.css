@@ -1,0 +1,40 @@
+.a{
+    background-color: firebrick;
+    border-radius: 50% 50% 50% 50%;
+    width: 350px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    border: 20px;
+    margin: auto;
+    margin-top: 300px;
+
+}
+.b{
+    z-index: -1;
+        width: 0;
+        height: 0;
+        border-bottom: 100px solid firebrick; 
+        border-left: 180px solid transparent;
+        margin:auto;
+        margin-top: -380px;
+}
+.c{
+    width: 0;
+	height: 0;
+	border-bottom: 110px solid firebrick; 
+    border-right: 80px solid transparent;	
+    margin: auto;
+    margin-top: 220px;
+    rotate: -30deg;
+}
+.d{
+    width: 0;
+	height: 0;
+	border-bottom: 80px solid firebrick; 
+    border-right: 60px solid transparent;	
+    margin: auto;
+    margin-top: -150px;
+    margin-right: 750px;
+    rotate: -40deg;
+}

@@ -1,0 +1,108 @@
+body{
+    background:linear-gradient(89.5deg,  mediumturquoise , rgb(175, 119, 45), rgb(122, 144, 209));
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+.a{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+image.a:hover{
+    height: 200px;;
+}
+.a:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
+.k{
+  display: flex;
+  justify-content: space-around;
+}
+.b{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.c{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.d{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.e{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.f{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.g{
+    height: 100px;
+    width: 250px;
+    background-color: skyblue;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+}
+.b:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+
+}
+.c:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
+.d:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
+.e:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
+.f:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
+.g:hover{
+    height: 450px;
+width: 400px;
+margin-bottom: 700px;
+}
