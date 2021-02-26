@@ -1,0 +1,48 @@
+.a {
+    background-color: rgb(202, 174, 255);
+    height: 300px;
+    margin-bottom: 1%;
+    overflow: scroll;
+    display: flex;
+}
+
+.b {
+    background-color: cadetblue;
+    height: 150px;
+    margin-bottom: 1%;
+}
+
+.c {
+    background-color: cornflowerblue;
+    height: 200px;
+    margin-bottom: 1%;
+}
+
+.d {
+    background-color: darkslateblue;
+    height: 400px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    font-size: 15px;
+    color: rgb(55, 2, 104);
+}
+
+@media screen and (max-width: 500px) {
+    .a {
+        display: block;
+    }
+    img {
+        margin: auto;
+        display: block;
+    }
+    h1 {
+        font-size: 18px;
+        color: rgb(109, 7, 75);
+    }
+}
